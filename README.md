@@ -119,7 +119,7 @@ On **Details** pane, the website presents your instance configuration parameters
 
   
 
-Save the connection details with the **following template** on a **text document** (the repository includes this template in the file *.env.example*; you are free to edit it and save it as *.env*)
+Save the connection details with the **following template** on a **text document** (the repository includes this template in the file *.env.example*; you are free to edit it and save it as *.env*):
 ```
 
 export CLOUDKARAFKA_BROKERS="server1:9094,server2:9094,server3:9094"
